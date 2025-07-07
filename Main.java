@@ -12,7 +12,7 @@ public class Main{
   }
 
   public static int[] inverse(int[] a){
-   
+    
     int[] ans = new int[a.length];
     
     for(int idx=0; idx<a.length; idx++)
